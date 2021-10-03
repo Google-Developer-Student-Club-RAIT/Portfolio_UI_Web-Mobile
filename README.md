@@ -61,7 +61,7 @@ flutter packages pub run build_runner watch
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_name>/Portfolio_UI_Web-Mobile
+git clone https://github.com/<your_name>/Portfolio_UI_Web-Mobile.git 
 ```
 
 **3.** Navigate to the project directory :file_folder: .
